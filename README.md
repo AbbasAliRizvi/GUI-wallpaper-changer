@@ -1,2 +1,9 @@
 Python coding for Wallpaper Changer App
-New Microsoft Word Document.docx has the code written in Python using tkinter Python GUI
+Coding.txt has the code written in Python using tkinter Python GUI
+
+
+
+
+
+2K19/CSM/52 Muhammad Abbas
+2K19/CSM/22 Dileep Kumar
